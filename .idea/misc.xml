@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="jackson-annotations-2.9.0.pr2">
+      <CLASSES>
+        <root url="jar://U:/Java/Java/Jackson/jackson-annotations-2.9.0.pr2.jar!/" />
+        <root url="jar://U:/Java/Java/Jackson/jackson-core-2.9.0.jar!/" />
+        <root url="jar://U:/Java/Java/Jackson/jackson-core-2.9.0.pr2.jar!/" />
+        <root url="jar://U:/Java/Java/Jackson/jackson-databind-2.9.0.jar!/" />
+        <root url="jar://U:/Java/Java/Jackson/jackson-databind-2.9.0.pr2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://U:/Java/Java/Jackson/jackson-core-jackson-core-2.9.2.zip!/jackson-core-jackson-core-2.9.2/src/main/java" />
+        <root url="jar://U:/Java/Java/Jackson/jackson-core-jackson-core-2.9.2.zip!/jackson-core-jackson-core-2.9.2/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
